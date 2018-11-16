@@ -1,0 +1,20 @@
+.Counter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Counter b {
+  width: 100px;
+}
+
+.Counter button {
+  width: 100px;
+  padding: 20px 15px;
+  border-radius: 10px;
+  outline: none;
+}
+
+.Counter-count {
+  width: 200px;
+}
